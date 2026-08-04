@@ -1,10 +1,8 @@
 ## Hi, I'm Ife👋
 
-Graduate in Computer Science with a passion for software development, problem-solving, and building impactful applications.
+I am a graduate in Information Technology with a passion for software development, problem-solving, cybersecurity, user experience design, game development and building impactful application.
 
 <!--
-**ife-dipe/ife-dipe** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
