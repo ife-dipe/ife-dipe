@@ -1,5 +1,7 @@
 ## Hi, I'm Ife👋
 
+Graduate in Computer Science with a passion for software development, problem-solving, and building impactful applications.
+
 <!--
 **ife-dipe/ife-dipe** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
