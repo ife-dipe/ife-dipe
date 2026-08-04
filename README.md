@@ -1,7 +1,6 @@
 ## Hi, I'm Ife👋
 
 I am a graduate in Information Technology with a passion for software development, problem-solving, cybersecurity, user experience design, game development and building impactful application.
-
 <!--
 Here are some ideas to get you started:
 
